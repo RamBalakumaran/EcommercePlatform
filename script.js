@@ -1,3 +1,4 @@
+
 const productSelect = document.getElementById('productSelect');
 const productDetails = document.getElementById('productDetails');
 let allProducts = [];
