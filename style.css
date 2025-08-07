@@ -1,0 +1,20 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    #productDetails {
+      margin-top: 20px;
+      border: 1px solid #ddd;
+      padding: 15px;
+      width: 300px;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+    select {
+      padding: 5px;
+      font-size: 16px;
+    }
+  
